@@ -1,0 +1,88 @@
+* {
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 12px;
+    margin-bottom: 12px;
+}
+
+h1 {
+    color:darkviolet; 
+}
+
+strong {
+    font-weight: normal;
+}
+
+p {
+    color:blueviolet; 
+    background: #ddcbf5 ; 
+    font-weight: normal;
+    text-transform: none;
+    /* this is a comment*/ 
+    font-style: normal;
+    /* italic,norm*/ 
+    line-height: 20px;
+    text-decoration: none;
+    font-size: 12;
+}
+
+h2 {
+    color: darkviolet;
+}
+
+ul{
+    color: blueviolet;
+}
+
+body {
+    background: #edf1ff;
+}
+
+#citation {
+    color: darkblue;
+    background: #bebffa;
+}
+
+.new-class {
+    font-size: 9 px;
+    background: #bebffa;
+}
+
+a { 
+    font-size: 30px;
+}
+
+a:visited {
+    color: blue ;
+}
+
+a:hover {
+    color: white;
+    text-decoration: none;
+}
+
+#container {
+    background: pink;
+    border-style: dotted;
+    border-color:  palevioletred;
+    border-width: 10px;
+    width: 300px ;
+}
+
+#shape {
+    height: 200px;
+    width: 200px;
+    background: palevioletred;
+}
+
+#circle {
+    height: 200px;
+    width: 200px;
+    background: pink;
+    border-radius: 200px;
+}
+
+img {
+    width: 300px;
+    height: 200px;
+}
